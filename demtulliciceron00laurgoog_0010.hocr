@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./demtulliciceron00laurgoog_0010.png"; bbox 0 0 3086 5040; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 693 1910 769 1986">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 693 1910 769 1986">
+     <span class='ocr_line' id='line_1_1' title="bbox 693 1910 769 1986; baseline -0.013 0"><span class='ocrx_word' id='word_1_1' title='bbox 693 1910 769 1986; x_wconf 86' lang='lat' dir='ltr'>DE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 267 2057 1430 2452">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 267 2057 1430 2452">
+     <span class='ocr_line' id='line_1_2' title="bbox 267 2057 1430 2244; baseline -0.003 -4"><span class='ocrx_word' id='word_1_2' title='bbox 267 2129 355 2242; x_wconf 84' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_3' title='bbox 398 2129 668 2244; x_wconf 76' lang='lat' dir='ltr'>TULLI</span> <span class='ocrx_word' id='word_1_4' title='bbox 711 2126 1195 2242; x_wconf 76' lang='lat' dir='ltr'>CICERONIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1427 2057 1430 2061; x_wconf 61' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 433 2373 1027 2452; baseline 0 -2"><span class='ocrx_word' id='word_1_6' title='bbox 433 2374 651 2452; x_wconf 84' lang='lat' dir='ltr'>STUDIIS</span> <span class='ocrx_word' id='word_1_7' title='bbox 685 2373 1027 2450; x_wconf 86' lang='lat' dir='ltr'>RHETORICIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1548 5040">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1548 5040">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1548 5040; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1548 5040; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
